@@ -13,3 +13,7 @@
 * From the cumulative explained_variance_ratio plot, it is seen that with about 15 premary components which could represent 90% of the total variance.
 * Ingeneral, TSNE is more suitable for this project since all the algrithms showed higher accuracy and confidence. Umap also showed very good accuracy, but the prediction tend to be more random.
 * Three algrithms were tested and there is no clear advantages interms of accuracy and confidence level between different algrithms. However, using Hierachical with applying TSNE produce the highest accuracy 0.904 and confidence 0.654.
+
+![Picture3](https://user-images.githubusercontent.com/46268295/71008993-27f5b080-20af-11ea-9781-8ec532e9bdf2.png)
+
+![Picture4](https://user-images.githubusercontent.com/46268295/71008997-2926dd80-20af-11ea-92d5-da5df305fcbb.png)
